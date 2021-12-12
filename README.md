@@ -22,6 +22,6 @@ in the package.json
 }
 
 Run commands on terminal : 
-npm install nodemon --save-dev
-npm start
+- npm install nodemon --save-dev
+- npm start
 
